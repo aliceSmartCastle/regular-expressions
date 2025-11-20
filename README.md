@@ -3,3 +3,5 @@ https://www.pythontutorial.net/python-regex/
 thank evenyone watch my code
 ## ReMethod.py
 many re method example of python code
+## rehelper-0.0.1.tar.gz
+the ReMethod python packages version
